@@ -1,4 +1,4 @@
 /**
- * This is a glorious package
+ * This is a glorious package.
  */
 package com.example;
